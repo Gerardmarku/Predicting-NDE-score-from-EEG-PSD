@@ -16,3 +16,8 @@ After the creation of NIfTI files, you can open them on MRIcroGL
 Notes:
 The AAL.nii and AAL.xml are required for NIfTI creation code
 Also make sure to use the reformated files as they are already adjusted to be converted to NIfTI file
+
+Contributors: Gerard Marku, Ivaylo Mihaylov, Nikolay Nikolov, Laura Laurens
+
+Acknowledgments
+We would like to to thank proffesor Federico Zamberlan for the help and support throughout this project. The datasets were provided from him and without his help this project wouldnt have been posssible.

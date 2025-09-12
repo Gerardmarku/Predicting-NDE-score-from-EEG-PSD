@@ -19,5 +19,5 @@ In case you want to visualize our results on MRIcroGL,download "Converting to NI
 
 Contributors: Gerard Marku
 
-Acknowledgments
+Acknowledgments:
 I would like to to thank proffesor Federico Zamberlan for the help and support throughout this project. The datasets were provided from him and without his help this project wouldnt have been posssible.

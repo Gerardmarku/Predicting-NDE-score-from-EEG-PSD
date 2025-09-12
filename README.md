@@ -17,7 +17,7 @@ Notes:
 The AAL.nii and AAL.xml are required for NIfTI creation code.
 In case you want to visualize our results on MRIcroGL,download "Converting to NIfTI.ipynb" and the csv files that contain in the name reformatted.
 
-Contributors: Gerard Marku, Ivaylo Mihaylov, Nikolay Nikolov, Laura Laurens
+Contributors: Gerard Marku
 
 Acknowledgments
-We would like to to thank proffesor Federico Zamberlan for the help and support throughout this project. The datasets were provided from him and without his help this project wouldnt have been posssible.
+I would like to to thank proffesor Federico Zamberlan for the help and support throughout this project. The datasets were provided from him and without his help this project wouldnt have been posssible.

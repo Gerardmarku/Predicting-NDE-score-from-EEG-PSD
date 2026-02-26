@@ -1,5 +1,5 @@
 # Predicting-NDE-score-from-EEG-PSD
-In this project our group tries to train the models that were chosen on the brain waves on the EEG descriptors after DMT use. We decided to do this topic because how often we hear DMT experiences being connected to NEar Death experiences. This is based on the NDE questionaire that is a stable for explaining the similar experiences to a near death experience. We wanted to see if its possible to predict if the  participants had a low nde or high nde based only on eeg descriptors. 
+In this project I tried to train the models on the brain waves on the EEG descriptors after DMT use. I decided to do this topic because how often we hear DMT experiences being connected to Near Death experiences. This is based on the NDE questionaire that is a stable for explaining the similar experiences to a near death experience. I wanted to see if its possible to predict if the  participants had a low nde-score or high nde-score based only on eeg descriptors. 
 
 
 Instructions
